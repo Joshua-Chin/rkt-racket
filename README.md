@@ -1,4 +1,4 @@
 rkt-racket
 ==========
 
-restricted racket in racket
+This is a minimal racket implementation written in racket.
